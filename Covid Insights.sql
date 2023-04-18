@@ -6,7 +6,7 @@ from Deaths where continent!=''
 )
 select sum(population) as World_Wide_Population from temp_tbl 
 
--- Population for each country
+--Population for each country
 with temp_tbl(location,population) as 
 (
 select distinct(location), population 
@@ -67,7 +67,7 @@ SELECT
   group by  location
  order by total_deaths desc
 
- -- Daily Cumulative World Death %
+ --Daily Cumulative World Death %
  SELECT [date],     
     sum( [total_cases]) as cumulative_cases,  
     sum(total_deaths) as cumulative_deaths,
@@ -80,18 +80,7 @@ SELECT
   group by date
   order by date asc
 
-   -- Daily Cumulative World Death %
- SELECT [date],     
-    sum( [total_cases]) as cumulative_cases,  
-    sum(total_deaths) as cumulative_deaths,
-	case when sum( [total_cases])=0 
-	then 0
-	else 
-	round(sum(cast(total_deaths as float))/sum(cast(total_cases as float))*100	,2) end as Deaths_Percentage
-  FROM [LearnDA].[dbo].[Deaths]
-  where continent !='' 
-  group by date
-  order by date asc
+ 
  ------------------LIBYA INSIGHTS----------------
  --How many people got the vaccination
 select max(cast(people_vaccinated as int)) as people_vaccinated from Vaccines where iso_code='lby'
