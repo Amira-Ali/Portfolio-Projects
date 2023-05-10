@@ -11,22 +11,22 @@ or you can find him on (https://github.com/aliahmad-1987)
 * How Internet sales has been over time
  <br />
 
-**sales overview**<br />
-(https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20overview.png)
+**Sales Overview**<br />
+![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20overview.png)
 
-**sales by customers**<br/>
-https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20by%20customers.png
+**Sales by Customers**<br/>
+![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20by%20customers.png)
 
-**sales by products**<br/>
-https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20by%20products.png
+**Sales by Products**<br/>
+![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20by%20products.png)
 
-**Link to live dashboard**<br/>
+**Link to live Dashboard**<br/>
 https://app.powerbi.com/links/Yugs1wefWC?ctid=84008d0f-90f6-4e21-b588-403ad5bfdd2f&pbi_source=linkShare
 
 **Tools Used**<br />
 Microsoft Excel + Microsoft Sql Server + Power BI
 
-**Final thoughts**<br/>
+**Final Thoughts**<br/>
 * One of client requirements was not answered because it concerned sales actual employees that work in resellers, and since the client was interested only in internet sales, hence this requirement became invalid.
 * The client provided an excel sheet with a two year budget data (not included originally in AdventureWorksDW2019 db)
-* The client is obviously an imaginary person, and I had so much fun learning and picking up data analysis skills throughout this project ^_^
+* The client is obviously an imaginary person, and I had so much fun learning and picking up data analysis skills throughout this project :smiling_face_with_three_hearts:
