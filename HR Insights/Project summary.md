@@ -1,4 +1,4 @@
-The project is offered by this amazing Youtube channel https://youtu.be/ru1qeDO_qrc
+This project is offered by this amazing Youtube channel https://youtu.be/ru1qeDO_qrc
 or you can find them on https://github.com/codebasics
 
 **Target**<br /> To solve a real-time challenge of Pinali Mandalia - HR from Atliq Technologies using Power BI.
