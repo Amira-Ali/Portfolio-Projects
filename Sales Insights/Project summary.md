@@ -27,6 +27,8 @@ https://app.powerbi.com/links/Yugs1wefWC?ctid=84008d0f-90f6-4e21-b588-403ad5bfdd
 Microsoft Excel + Microsoft Sql Server + Power BI
 
 **Final Thoughts**<br/>
-* One of client requirements was not answered because it concerned sales actual employees that work in resellers, and since the client was interested only in internet sales, hence this requirement became invalid.
-* The client provided an excel sheet with a two year budget data (not included originally in AdventureWorksDW2019 db)
-* The client is obviously an imaginary person, and I had so much fun learning and picking up data analysis skills throughout this project :smiling_face_with_three_hearts:
+* One of client requirements was not answered because it concerned sales employees and those employees work in physical stores not the online ones, and since the client was interested only in internet sales, this requirement became invalid.
+* The client provided an excel sheet with a two-year budget data (not included originally in AdventureWorksDW2019 db)
+* All utilized data in this project were exported to csv files and imported later in power bi except for the product table, I had to import it directly from SQL server to power bi because I needed to use the binary column that contains product image and exporting it to csv file broke the resulted file.
+* After importing product table to power bi, I had to perform small steps on the binary column to be able to display it in my dashboard. Link for steps: https://www.c-sharpcorner.com/blogs/load-image-file-in-power-bi-from-sql-server
+* The client is obviously an imaginary person, and I had so much fun learning and picking up data analysis skills throughout this project:smiling_face_with_three_hearts:
