@@ -11,7 +11,7 @@ Who are the employees who request sick leave at the same time almost each year? 
 
 **Final Dashboard**<br />
 
-![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/HR%20Insights/dashboard.png)
+![Screenshot from Final Dashboard](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/HR_Insights/dashboard.png)
 
 **Tools Used**<br />
 Microsoft Excel + Power BI
