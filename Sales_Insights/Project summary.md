@@ -12,13 +12,13 @@ or you can find him on (https://github.com/aliahmad-1987)
  <br />
 
 **Sales Overview**<br />
-![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20overview.png)
+![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales_Insights/sales%20overview.png)
 
 **Sales by Customers**<br/>
-![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20by%20customers.png)
+![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales_Insights/sales%20by%20customers.png)
 
 **Sales by Products**<br/>
-![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales%20Insights/sales%20by%20products.png)
+![alt text](https://github.com/Amira-Ali/Portfolio-Projects/blob/main/Sales_Insights/sales%20by%20products.png)
 
 **Link to live Dashboard**<br/>
 https://app.powerbi.com/links/Yugs1wefWC?ctid=84008d0f-90f6-4e21-b588-403ad5bfdd2f&pbi_source=linkShare
